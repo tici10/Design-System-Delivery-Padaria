@@ -10,3 +10,7 @@
 <p align="center">
   <img src="imagem/Design de botões.png" alt="botões">
 </p>
+
+<p align="center">
+  <img src="imagem/Design box.png" alt="box">
+</p>
