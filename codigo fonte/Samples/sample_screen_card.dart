@@ -16,10 +16,23 @@ class SampleScreenCard extends StatelessWidget{
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           ActionCard.instantiate(viewModel: 
-            CardViewModel(
-              imageUrl: 'https://loja.mueller.ind.br/media/wysiwyg/pao-caseiro-facil1.jpg', 
+            CardViewModel( 
+              size: CardSize.medium,
+              style: CardStyle.unique,
+              image: Image.asset('assets/images/Pao-australiano.jpg'),
               nome: 'Pão Caseiro', 
               preco: '15.00', 
+            ),
+          ),
+          Divider(),
+          const SizedBox(height: 10,),
+          ActionCard.instantiate(viewModel: 
+            CardViewModel( 
+              size: CardSize.large,
+              style: CardStyle.unique,
+              image: Image.asset('assets/images/baguete.jpg'),
+              nome: 'Pão Caseiro', 
+              preco: '20.00', 
             ),
           )
         ],
