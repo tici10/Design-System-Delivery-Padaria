@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:design_system/componentes/action_button/view_model_button.dart';
 import 'package:design_system/shared/colors.dart';
+import 'package:design_system/shared/size.dart';
 
 class ActionButton extends StatelessWidget {
   final ButtonViewModel viewModel;
@@ -11,10 +12,10 @@ class ActionButton extends StatelessWidget {
     super.key,
     required this.viewModel,
     this.backgroundColor = primaryBaseColor,
-    this.size = 18,
+    this.size = smallBase,
   });
 
-  static ActionButton instantiate({required ButtonViewModel viewModel, backgroundColor = primaryBaseColor}) {
+  static ActionButton instantiate({required ButtonViewModel viewModel, backgroundColor = primaryBaseColor, size = smallBase}) {
     return ActionButton._(viewModel: viewModel);
   }
 
@@ -35,13 +36,13 @@ class ActionButton extends StatelessWidget {
   void setSize(ActionButtonSize size){
     switch(viewModel.size){
       case ActionButtonSize.small:
-        this.size = 18;
+        this.size = smallBase;
         break; 
       case ActionButtonSize.medium:
-        this.size = 24;
+        this.size = mediumBase;
         break;
       case ActionButtonSize.large:
-        this.size = 30;
+        this.size = largeBase;
         break;
     }
   }
@@ -60,7 +61,7 @@ class ActionButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    setStyle(viewModel.style as ActionButtonStyle);
+    setStyle(viewModel.style);
     setSize(viewModel.size);
     return createElevatedButton();
   }
