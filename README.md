@@ -12,5 +12,5 @@ telas desenvolvidas, seguindo os padrões de componentes criados.
 >## Componentes padronizados
 + Botões: Os botões são componentes essenciais em uma interface, pois permite a execução de funcionalidades<br>
 e a transição de telas em um sistema.
-  + [Modelo de design de botões](codigo fonte/Componentes/Botões)
+  + [Modelo de design de botões](https://github.com/tici10/Design-System-Delivery-Padaria/blob/9ba96d39648a090972991045fd8f029df8161d9e/Projeto%20de%20telas/imagem/Design%20de%20bot%C3%B5es.png)
   + [Código realizado](https://github.com/tici10/Design-System-Delivery-Padaria/tree/832308510c85bb7202b54b671c98fb96989ffb62/codigo%20fonte/Componentes/Bot%C3%B5es)
