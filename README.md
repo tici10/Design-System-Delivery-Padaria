@@ -12,5 +12,5 @@ telas desenvolvidas, seguindo os padrões de componentes criados.
 >## Componentes padronizados
 + Botões: Os botões são componentes essenciais em uma interface, pois permite a execução de funcionalidades<br>
 e a transição de telas em um sistema.
-+ (modelo de design de botões)
+  + [modelo de design de botões](codigo fonte/Componentes/Botões)
 ++ (código realizado)
