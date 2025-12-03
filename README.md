@@ -18,5 +18,5 @@ e a transição de telas em um sistema.
 + Card: Os cards são uma espécie de container que para esse projeto, serve como um componente<br>
 que ajuda a organizar e visualizar os produtos disponíveis no app, trazendo de uma forma modernizada<br>
 uma experiência favorável ao usuário.
-  + [Modelo de design card]()
+  + [Modelo de design card](https://github.com/tici10/Design-System-Delivery-Padaria/blob/6ee10074b69f29c43ede0fce2b35780efbed322f/Projeto%20de%20telas/imagem/Design%20box.png)
   + [Código realizado](https://github.com/tici10/Design-System-Delivery-Padaria/tree/56c4eabf054ac6d256078cb81e6fd5ea75e9158f/codigo%20fonte/Componentes/Card)
