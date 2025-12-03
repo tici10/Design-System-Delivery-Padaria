@@ -24,7 +24,7 @@ uma experiência favorável ao usuário.
 + Label: As labels são componentes de campos de texto, onde o usuário insere seus dados<br>
 para executar uma função, no caso desse projeto, as labels foram pensadas para receber dados<br>
 durante o login e pesquisa de produtos do app.
-  + [Modelo de design label]()
+  + [Modelo de design label](https://github.com/tici10/Design-System-Delivery-Padaria/blob/8b61bb0e791903202389c0e62eff5a8f1acec4d9/Projeto%20de%20telas/imagem/Design%20box.png)
   + [Código realizado](https://github.com/tici10/Design-System-Delivery-Padaria/tree/c384f1f189035b2b3b132e3fc13719d8b12db470/codigo%20fonte/Componentes/Label)
 
 + Load: O load é o carregamento de tela durante a execução de uma funcionalidade no sistema, ou seja,<br>
