@@ -20,3 +20,15 @@ que ajuda a organizar e visualizar os produtos disponíveis no app, trazendo de 
 uma experiência favorável ao usuário.
   + [Modelo de design card](https://github.com/tici10/Design-System-Delivery-Padaria/blob/6ee10074b69f29c43ede0fce2b35780efbed322f/Projeto%20de%20telas/imagem/Design%20box.png)
   + [Código realizado](https://github.com/tici10/Design-System-Delivery-Padaria/tree/56c4eabf054ac6d256078cb81e6fd5ea75e9158f/codigo%20fonte/Componentes/Card)
+
++ Label: As labels são componentes de campos de texto, onde o usuário insere seus dados<br>
+para executar uma função, no caso desse projeto, as labels foram pensadas para receber dados<br>
+durante o login e pesquisa de produtos do app.
+  + [Modelo de design label]()
+  + [Código realizado]()
+
++ Load: O load é o carregamento de tela durante a execução de uma funcionalidade no sistema, ou seja,<br>
+o tempo de carregamento que a api implementada leva para retornar uma solicitação, no caso elaborado para<br>
+esse design, foi feita utilizando uma imagem de "espera" para esse tempo de carregamento.
+  + [Modelo de design load]()
+  + [Código realizado]()
