@@ -14,3 +14,9 @@ telas desenvolvidas, seguindo os padrões de componentes criados.
 e a transição de telas em um sistema.
   + [Modelo de design de botões](https://github.com/tici10/Design-System-Delivery-Padaria/blob/9ba96d39648a090972991045fd8f029df8161d9e/Projeto%20de%20telas/imagem/Design%20de%20bot%C3%B5es.png)
   + [Código realizado](https://github.com/tici10/Design-System-Delivery-Padaria/tree/832308510c85bb7202b54b671c98fb96989ffb62/codigo%20fonte/Componentes/Bot%C3%B5es)
+ 
++ Card: Os cards são uma espécie de container que para esse projeto, serve como um componente<br>
+que ajuda a organizar e visualizar os produtos disponíveis no app, trazendo de uma forma modernizada<br>
+uma experiência favorável ao usuário.
+  + [Modelo de design card]()
+  + [Código realizado](https://github.com/tici10/Design-System-Delivery-Padaria/tree/56c4eabf054ac6d256078cb81e6fd5ea75e9158f/codigo%20fonte/Componentes/Card)
